@@ -1,4 +1,4 @@
-# Financial Analysis Using Ecel
+# Financial Analysis Using Excel
 * Region report
 * Revenue Analysis
 * Profit Analysis 
